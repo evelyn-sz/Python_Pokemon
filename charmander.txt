@@ -1,2 +1,3 @@
 flamethrower 
 inferno
+tail slam
